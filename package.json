@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-Creators/",
+    "build": "vite build --base=/html-css_98_Voytina/",
     "preview": "vite preview"
   },
   "devDependencies": {
